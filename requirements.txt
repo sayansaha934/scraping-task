@@ -3,3 +3,4 @@ uvicorn==0.18.3
 psycopg2-binary==2.9.7
 mailtrap
 redis
+beautifulsoup4
